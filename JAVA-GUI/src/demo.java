@@ -15,7 +15,8 @@ public class demo {
 		ImageIcon icon = new ImageIcon("a.jpg");
 		frame.setIconImage(icon.getImage());
 //Jlabel
-		
+		262
+		5+62+6
 	}
 
 }
